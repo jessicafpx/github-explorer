@@ -1,0 +1,10 @@
+{
+  "name": "github-explorer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jessica Peixoto <jessica.fpeixoto@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.1.0"
+  }
+}
